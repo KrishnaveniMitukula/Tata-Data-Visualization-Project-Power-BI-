@@ -14,11 +14,9 @@ The goal was to analyze business data and create meaningful insights using Power
 - Analyzed business data  
 - Generated insights for decision-making  
 
-## 📷 Dashboard
-(Add your screenshot here)
 
 ## 📜 Certificate
-(Add your certificate image here)
+https://github.com/KrishnaveniMitukula/Tata-Data-Visualization-Project-Power-BI-/blob/main/Screenshot%202026-03-17%20160524.png
 
 ## 🚀 Outcome
 Improved my skills in Power BI, data storytelling, and analytics.
